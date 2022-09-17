@@ -1,0 +1,51 @@
+{
+  "button": {
+    "about": "これは？",
+    "back": "戻る",
+    "go": "進む",
+    "home": "ホーム",
+    "next": "次",
+    "skip": "スキップ",
+    "toggle_dark": "ダークモード切り替え",
+    "toggle_langs": "言語切り替え"
+  },
+  "intro": {
+    "aka": "としても知られている",
+    "desc": "固執された Vite スターターテンプレート",
+    "dynamic-route": "動的ルートのデモ",
+    "hi": "こんにちは、{name}!",
+    "whats-your-name": "君の名は。"
+  },
+  "not-found": "見つかりませんでした",
+  "setupWizard": {
+    "steps": {
+      "availability": {
+        "title": "セッションの空き時間は通常いつですか。"
+      },
+      "confirmation": {
+        "title": "これで準備完了です。"
+      },
+      "covid": {
+        "masksRequired": "必要なマスク",
+        "meetInPerson": "直接会う",
+        "meetRemote": "リモートで会う",
+        "title": "リモート、対面、またはその両方?"
+      },
+      "education": {
+        "elementary": "小学校",
+        "high-school": "高校",
+        "middle-school": "中学校",
+        "post-graduate": "大学院・修士",
+        "title": "あなたの教育レベルは？",
+        "undergraduate": "学士号"
+      },
+      "loading": {
+        "title": "設定を読み込んでいます..."
+      },
+      "location": {
+        "detect": "現在位置",
+        "title": "どこに住んでいますか？"
+      }
+    }
+  }
+}

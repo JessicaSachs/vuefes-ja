@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "vitest",
+    ],
+  },
+  "include": ["**/*.test.*"],
+  "exclude": ["dist", "node_modules", "cypress", "**/*.cy.*"]
+}

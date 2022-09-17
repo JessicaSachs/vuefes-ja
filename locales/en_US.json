@@ -1,0 +1,51 @@
+{
+  "button": {
+    "about": "About",
+    "back": "Back",
+    "go": "GO",
+    "home": "Home",
+    "next": "Next",
+    "skip": "Skip",
+    "toggle_dark": "Toggle dark mode",
+    "toggle_langs": "Change languages"
+  },
+  "intro": {
+    "aka": "Also known as",
+    "desc": "Opinionated Vite Starter Template",
+    "dynamic-route": "Demo of dynamic route",
+    "hi": "Hi, {name}!",
+    "whats-your-name": "What's your name?"
+  },
+  "not-found": "Not found",
+  "setupWizard": {
+    "steps": {
+      "availability": {
+        "title": "When are you usually free for sessions?"
+      },
+      "confirmation": {
+        "title": "You're all set!"
+      },
+      "covid": {
+        "masksRequired": "Masks Required",
+        "meetInPerson": "Meet in Person",
+        "meetRemote": "Meet Remote",
+        "title": "Remote, In-Person, or both?"
+      },
+      "education": {
+        "elementary": "Elementary School",
+        "high-school": "High School",
+        "middle-school": "Middle School",
+        "post-graduate": "Graduate",
+        "title": "What’s your education level?",
+        "undergraduate": "Undergrad"
+      },
+      "loading": {
+        "title": "Loading preferences..."
+      },
+      "location": {
+        "detect": "Detect",
+        "title": "Where do you live?"
+      }
+    }
+  }
+}
